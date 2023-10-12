@@ -1,0 +1,14 @@
+{
+  "name": "website-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/client": "^10.2.2",
+    "cheerio": "^1.0.0-rc.10",
+    "colors": "^1.4.0",
+    "serve": "^14.2.1",
+    "shelljs": "^0.8.4",
+    "website-scraper": "^4.2.3"
+  }
+}
